@@ -1,0 +1,26 @@
+{
+  "name": "dummy",
+  "title": "Test JQuery Project",
+  "description": "Test Project",
+  "version": "0.1.0",
+  "homepage": "https://github.com/suddenlycloud/dummy",
+  "author": {
+    "name": "Sarang Rao",
+    "email": "raos.cloud@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/suddenlycloud/dummy.git"
+  },
+  "bugs": "https://github.com/suddenlycloud/dummy/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/suddenlycloud/dummy/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
